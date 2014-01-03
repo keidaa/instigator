@@ -1,0 +1,5 @@
+{
+    "SourceDir"  : "posts",
+    "TemplateDir"  : "templates",
+    "OutputDir" : "output"
+}
